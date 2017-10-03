@@ -1,0 +1,12 @@
+@media (max-width: 640px) {
+	.container table {
+		font-size: 0.4em;
+	}
+	.form_finder .contain {
+		margin: 0 10px;
+	}
+
+	#boton_ocultar_menu_top {
+		display: none;
+	}
+}
